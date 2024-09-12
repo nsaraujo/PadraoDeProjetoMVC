@@ -1,0 +1,5 @@
+com\mycompany\pagamentodeboletos\Boleto.class
+com\mycompany\pagamentodeboletos\PagamentoDeBoletos.class
+com\mycompany\pagamentodeboletos\Cliente.class
+com\mycompany\pagamentodeboletos\PagamentoView.class
+com\mycompany\pagamentodeboletos\PagamentoController.class
